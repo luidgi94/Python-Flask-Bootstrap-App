@@ -1,0 +1,12 @@
+%title: FLASK - Python
+%author: xavki
+
+
+-> Bootstrap <-
+
+<br>
+* Installation
+
+```
+pip install flask-bootstrap
+```
